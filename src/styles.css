@@ -1,0 +1,18 @@
+/* You can add global styles to this file, and also import other style files */
+html, body {
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    
+}
+
+body {
+    background-color: #2c3e50;
+    color: white;
+    font-family: 'Roboto', sans-serif; /*find something better */
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Roboto', sans-serif;/*find something better for h's*/
+}
