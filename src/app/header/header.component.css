@@ -1,4 +1,6 @@
 .links {
+    text-align: center;
+    align-items: center;
     display: flex;
     justify-content: center;
 }
@@ -13,6 +15,7 @@ a {
     margin: 0.25rem 1rem;
 }
 a img {
+    margin: 0 auto;
     width: 100px;
 }
 a::before {
@@ -53,3 +56,34 @@ a:focus::before, a:hover::before, a:focus div.hiden-label, a:hover div.hiden-lab
         width: 20px;
     }
   }
+div.about_me{
+    background-color: rgba(0, 0, 0, 0.5);
+    padding: 15px 30px 15px;
+    text-align: left;
+    color: #fff;
+    margin-bottom: 30px;
+    border-radius: 30px;
+}
+div.some p{
+    color: #fff;
+    font-size: 1.2em;
+    /*align text center*/
+    text-align: center;
+}
+
+p{
+    color: #fff;
+    font-size: 1.2em;
+}
+h1{
+    color: #fff;
+    font-size: 5em;
+    text-align: center;
+}
+h2{
+    margin: 0px;
+    color: #fff;
+    font-size: 3em;
+    text-align: center;
+}
+
