@@ -1,5 +1,6 @@
 .links {
     display: flex;
+    justify-content: center;
 }
 a {
     display: flex;
@@ -37,3 +38,18 @@ a div.hiden-label {
 a:focus::before, a:hover::before, a:focus div.hiden-label, a:hover div.hiden-label {
     opacity: 1;
 }
+@media only screen and (max-width: 800px) {
+    a {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        text-decoration: none;
+        position: relative;
+        padding: 2rem;
+        width: 20px;
+        margin: 0px;
+    }
+    a img {
+        width: 20px;
+    }
+  }
