@@ -10,9 +10,14 @@ div{
 p{
     color: #fff;
     font-size: 1.2em;
+    margin: 0px;
 }
 a{
     color: #fff;
     font-size: 1.0em;
-    text-decoration: none;
+}
+h3{
+    color: #fff;
+    font-size: 1.5em;
+    margin: 0px;
 }
