@@ -1,4 +1,4 @@
-div{
+.main-container{
     background-color: rgba(0, 0, 0, 0.5);
     padding: 5px 30px 15px;
     text-align: left;
@@ -7,7 +7,7 @@ div{
     border-radius: 30px;
 }
 
-p{
+p, li,strong{
     color: #fff;
     font-size: 1.2em;
     margin: 0px;
@@ -20,4 +20,16 @@ h3{
     color: #fff;
     font-size: 1.5em;
     margin: 0px;
+}
+.image-container {
+    position: relative;
+  }
+img {
+    padding: 5px;
+    border-radius: 15px;
+    max-width: 15%;
+    height: auto;
+}
+.spacer{
+    height: 50px;
 }
