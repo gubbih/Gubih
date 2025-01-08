@@ -1,6 +1,6 @@
 # My Portfolio
 
-At the moment i am having problem with my SSL and digital ocean throught the plan i have, thats why the domain is down and there is a link to my website down below:
+At the moment i am having problem with my SSL and digital ocean throught the plan i have, thats why the domain is down and there is a link to my website here:
 https://coral-app-9bf4x.ondigitalocean.app/
 Currently trying to get it fix, but some of the changes takes a bit of time to get change due to ISP's.
 
