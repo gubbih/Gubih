@@ -1,7 +1,7 @@
 # My Portfolio
 
 At the moment i am having problem with my SSL and digital ocean throught the plan i have, thats why the domain is down and there is a link to my website here:
-https://coral-app-9bf4x.ondigitalocean.app/
+gubih-xyz-hsjkk.ondigitalocean.app
 Currently trying to get it fix, but some of the changes takes a bit of time to get change due to ISP's.
 
 This is my portfolio — my **"first"** website built with Angular. It’s a learning project to try things out and experiment. 🚀
